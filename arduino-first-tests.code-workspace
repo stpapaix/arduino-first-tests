@@ -3,5 +3,13 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings": {
+		"search.exclude": {
+			"arduino-wifi-test/arduino_secrets.h": true
+		},
+		"files.exclude": {
+			"arduino-wifi-test/arduino_secrets.h": true
+		}
+	}
 }
