@@ -9,6 +9,7 @@ Test code for Arduino wifi Rev 2 (wifi, lcd screen , etc...)
 
 
 ## Secret file creation fot arduino-wifi_test
-create arduino_secret.h file
-#define SECRET_SSID "xxxx"
+create arduino_secret.h file  
+and type =>  
+#define SECRET_SSID "xxxx"  
 #define SECRET_PASS "xxxx"
