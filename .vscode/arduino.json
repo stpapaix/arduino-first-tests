@@ -1,0 +1,6 @@
+{
+    "sketch": "arduino-wifi-test\\arduino-wifi-test.ino",
+    "board": "arduino:megaavr:uno2018",
+    "configuration": "mode=on",
+    "port": "COM7"
+}
